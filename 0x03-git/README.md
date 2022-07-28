@@ -20,3 +20,5 @@
 * git push origin main
 
 ## General Learning
+
+* [Learn Git](https://www.git-scm.com/docs)
