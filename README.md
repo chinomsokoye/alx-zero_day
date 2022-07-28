@@ -1,14 +1,14 @@
 # My first readme
 
-An **update** to the _main_ readme
+## An **_update_** to the **_main_** readme
 
-## Git
+### Git
 
 * Concepts
 * Resources
 * Learning Objectives
 
-### General
+### General Learning
 
 * What is source code management
 * What is Git
